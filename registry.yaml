@@ -4,6 +4,14 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: Jokes
+  path: articles/jokes.md
+  date: 2024-07-31
+  authors:
+    - AI Assistant
+  tags:
+    - jokes
+
 - title: Exploring Model Graders for Reinforcement Fine-Tuning
   path: examples/Reinforcement_Fine_Tuning.ipynb
   date: 2025-05-23
