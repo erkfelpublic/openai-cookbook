@@ -18,3 +18,5 @@ For other useful tools, guides and courses, check out these [related resources f
 ## License
 
 MIT License
+
+Why did the scarecrow win an award? Because he was outstanding in his field!
