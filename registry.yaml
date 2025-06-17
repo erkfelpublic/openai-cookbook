@@ -4,14 +4,6 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
-- title: Random Joke
-  path: examples/joke.py
-  date: 2024-07-26
-  authors:
-    - agent
-  tags:
-    - fun
-
 - title: Exploring Model Graders for Reinforcement Fine-Tuning
   path: examples/Reinforcement_Fine_Tuning.ipynb
   date: 2025-05-23
