@@ -1,3 +1,11 @@
+- title: Random Joke Generator
+  path: examples/Random_joke_generator.ipynb
+  date: 2024-07-29
+  authors:
+    - Jules
+  tags:
+    - completions
+    - fun
 # yaml-language-server: $schema=./.github/registry_schema.json
 
 # This file is used to generate cookbook.openai.com. It specifies which paths we
