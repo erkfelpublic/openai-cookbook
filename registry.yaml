@@ -2046,3 +2046,12 @@
     - agents
     - agents-sdk
     - parallel-agents
+
+- title: Generating Jokes with GPT
+  path: examples/Jokes_with_GPT.ipynb
+  date: 2024-07-26
+  authors:
+    - agent-jules
+  tags:
+    - completions
+    - fun
