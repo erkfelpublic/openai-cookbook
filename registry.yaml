@@ -4,6 +4,15 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: How to tell a joke
+  path: examples/How_to_tell_a_joke.ipynb
+  date: 2024-07-30
+  authors:
+    - agent
+  tags:
+    - fun
+    - jokes
+
 - title: Exploring Model Graders for Reinforcement Fine-Tuning
   path: examples/Reinforcement_Fine_Tuning.ipynb
   date: 2025-05-23
